@@ -46,8 +46,8 @@ export default function About() {
                   — a paragraph or two —
                 </div>
                 <p style={{ fontFamily: "'EB Garamond', serif", fontSize: "1.12rem", lineHeight: 1.7, color: "var(--ink)", margin: "0 0 18px" }}>
-                  Hey! I'm Benjamin im a Bosnian Diaspora living in Norway. I build things for the web mostly fullstack, but i am specialized in the backend.
-                  Im studying in Oslo, I cook food as a hobby and game. However i do occasionaly try to make cool things.
+                  Hey! I'm Benjamin. I build things for the web mostly fullstack, but i am specialized in the backend.
+                  Im studying in Oslo, I cook food as a hobby and game. However i do occasionally try to make cool things.
                 </p>
                 <p style={{ fontFamily: "'EB Garamond', serif", fontSize: "1.08rem", lineHeight: 1.7, color: "var(--ink)", margin: "0 0 18px" }}>
                   My favorite projects are the ones that people benefit from. Somewhere where I can make a difference.
