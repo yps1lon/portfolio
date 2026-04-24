@@ -29,7 +29,7 @@ const PROJECTS = [
     img: burnout, rot: 2, sfx: { text: "!!", color: "rust", rot: 12 }, tapeRot: 14 },
        */
   { id: "how-do-you-live", title: "WIP", sub: "Moving Price Estimator", tags: ["React", "TypeScript"], year: "'26",
-    note: "Ever wondered how expensive it is to move from one address to another? This calculates the distance from your current address to your new one, gives a time and price estimate and lets you create a checklist on what you need to move to your new home!",
+    note: "Find the best cheap wines at Vinmonopolet!",
     img: burnout, rot: 2, sfx: { text: "!!", color: "rust", rot: 12 }, tapeRot: 14 },
 ];
 
