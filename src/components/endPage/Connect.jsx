@@ -46,7 +46,7 @@ export default function Connect() {
                   Dear reader;
                 </p>
                 <p style={{ margin: "0 0 14px", paddingLeft: 18, fontFamily: "'EB Garamond', serif", fontSize: "1.08rem", lineHeight: 1.7, color: "var(--ink)" }}>
-                  If you've scrolled this far, thank you. Seriously. I spent alot of time creating this portfolio (a year to be exact). Ive tried to capture me as a person in this, and also challenge myself to learn new skills when it comes to UI/UX. Again, thank you for visiting <3
+                  If you've scrolled this far, thank you. Seriously. I spent alot of time creating this portfolio (a year to be exact). Ive tried to capture me as a person in this, and also challenge myself to learn new skills when it comes to UI/UX. Again, thank you for visiting ♥
                 </p>
 
                 <div style={{ paddingLeft: 18, marginTop: 24 }}>
