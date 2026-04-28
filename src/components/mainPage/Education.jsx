@@ -2,6 +2,7 @@ import React from "react";
 import { Tape, Polaroid, Sticker, Starburst, Reveal, SectionHeader } from "../primitives.jsx";
 import grad from "../../assets/grad.jpg";
 import fish from "../../assets/fish.png";
+import burnout from "../../assets/burnout.png";
 
 const ITEMS = [
   {
